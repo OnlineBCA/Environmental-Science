@@ -1,10 +1,9 @@
-# 🌿 Unit 01: Multidisciplinary Nature of Environmental Studies  
-### 📘 *Scope and Importance*
+README.txt  
+Unit 01: Multidisciplinary Nature of Environmental Studies, Scope and Importance
 
----
-
-## 🎯 **Objective**
-To understand the meaning, nature, and significance of Environmental Studies, its interdisciplinary connections, the concept of sustainable development, and the management of land and soil resources.
+-------------------------------------------------------------
+📌 Objective:
+The main aim of this unit is to introduce the concept of the environment, the scope and importance of Environmental Studies (EVS), and how it connects with different academic fields. It also emphasizes sustainable development and natural resource conservation.
 
 ---
 
