@@ -1,5 +1,4 @@
-README.txt  
-Unit 01: Multidisciplinary Nature of Environmental Studies, Scope and Importance
+# Unit 01: Multidisciplinary Nature of Environmental Studies, Scope and Importance
 
 -------------------------------------------------------------
 📌 Objective:
